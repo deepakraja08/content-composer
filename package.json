@@ -2,9 +2,12 @@
   "name": "content-composer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://deepakraja08.github.io/content-composer",
+
   "dependencies": {
     "cra-template": "1.2.0",
     "ffmpeg.js": "^4.2.9003",
+    "gh-pages": "^6.3.0",
     "google-tts-api": "^2.0.2",
     "html2canvas": "^1.4.1",
     "pptxgenjs": "^3.12.0",
@@ -17,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
