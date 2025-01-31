@@ -134,13 +134,13 @@ export default class contentPPTSerializer {
                             item.text.map(text => `${bulletChar}    ${text}`).join("\n"),
                             {
                                 x,
-                                y,
+                                y: y + 1,
                                 w: this.COLUMN_WIDTH - 0.2,
                                 fontSize: 10,
                                 color: "000000",
                                 align: "left",
+                                valign: 'middle',  // Align text to the bottom of the text box
                                 spaceBefore: 5,
-                                bulletChar: bulletChar,
                                 fontFace,
                             }
                         );

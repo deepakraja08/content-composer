@@ -1,33 +1,18 @@
 [
     {
       "slideNumber": 1,
-      "title": "Introduction to Nature",
-      "content": [
-        {
-          "image": [
-            "https://picsum.photos/id/1/300",
-            "https://picsum.photos/id/2/300"
-          ],
-          "text": [
-            "Nature's beauty is unparalleled.",
-            "The calmness of forests and oceans helps us find peace."
-          ]
-        }
-      ],
-      "audio_text": "This slide introduces the calming beauty of nature."
+      "title": "Cyber Security Basics",
+      "content": [],
+      "audio_text": "This slide discusses the fundamental principles of cybersecurity"
     },
     {
       "slideNumber": 2,
-      "title": "Wildlife Wonders",
+      "title": "What is Cyber Security?",
       "content": [
         {
-          "image": [
-            "https://picsum.photos/id/3/300",
-            "https://picsum.photos/id/4/300"
-          ],
           "text": [
-            "The lion is known as the king of the jungle.",
-            "Elephants are majestic creatures with incredible intelligence."
+            "The practice of protecting systems, networks, and programs from digital attacks",
+            "Aims to defend against unauthorized access, data breaches, and damage"
           ]
         }
       ],
@@ -35,34 +20,53 @@
     },
     {
       "slideNumber": 3,
-      "title": "Technology Advancements",
+      "title": "TTypes of Cyber Threats",
       "content": [
         {
           "image": [
-            "https://picsum.photos/id/5/300",
-            "https://picsum.photos/id/6/300"
-          ],
-          "text": [
-            "Robots are becoming more integrated into human life.",
-            "Computers have revolutionized the way we work and communicate."
+            "https://picsum.photos/id/9/300",
+            "https://picsum.photos/id/7/300",
+            "https://picsum.photos/id/10/300"
           ]
+        },
+        {
+            "text": [
+                "Phishing: Fraudulent attempts to acquire sensitive information via email or messages.",
+                "Social Engineering: Manipulating individuals into revealing confidential information.",
+                "Denial-of-Service (DoS) Attacks: Overloading a system to disrupt its services.",
+                "Phishing: Fraudulent attempts to acquire sensitive information via email or messages."
+            ]
         }
       ],
       "audio_text": "This slide focuses on the technological advancements of the modern era."
     },
     {
-      "slideNumber": 4,
+        "slideNumber": 4,
+        "title": "Basic Principles of Cyber Security",
+        "content": [
+            {
+                "image": [
+                    "https://picsum.photos/id/20/300"
+                ],
+                "text": [
+                    "Integrity: Ensuring that information is accurate and has not been tampered with.."
+                ]
+            },
+            {
+            "image": [
+                "https://picsum.photos/id/24/300"
+            ],
+            "text": [
+                "Confidentiality: Ensuring that only authorized individuals can access sensitive data."
+            ]
+            }
+        ],
+        "audio_text": "This slide focuses on the technological advancements of the modern era."
+      },
+    {
+      "slideNumber": 5,
       "title": "Conclusion",
       "content": [
-        {
-          "image": [
-            "https://picsum.photos/id/7/300"
-          ],
-          "text": [
-            "The future is filled with endless possibilities.",
-            "We must continue exploring, learning, and advancing."
-          ]
-        }
       ],
       "audio_text": "This slide concludes the presentation with an optimistic view of the future."
     }
