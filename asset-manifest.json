@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/content-composer/static/css/main.a4ef5326.css",
+    "main.js": "/content-composer/static/js/main.189afdca.js",
+    "index.html": "/content-composer/index.html",
+    "main.a4ef5326.css.map": "/content-composer/static/css/main.a4ef5326.css.map",
+    "main.189afdca.js.map": "/content-composer/static/js/main.189afdca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4ef5326.css",
+    "static/js/main.189afdca.js"
+  ]
+}
