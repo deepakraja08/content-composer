@@ -1,0 +1,70 @@
+[
+    {
+      "slideNumber": 1,
+      "title": "Introduction to Nature",
+      "content": [
+        {
+          "image": [
+            "https://picsum.photos/id/1/300",
+            "https://picsum.photos/id/2/300"
+          ],
+          "text": [
+            "Nature's beauty is unparalleled.",
+            "The calmness of forests and oceans helps us find peace."
+          ]
+        }
+      ],
+      "audio_text": "This slide introduces the calming beauty of nature."
+    },
+    {
+      "slideNumber": 2,
+      "title": "Wildlife Wonders",
+      "content": [
+        {
+          "image": [
+            "https://picsum.photos/id/3/300",
+            "https://picsum.photos/id/4/300"
+          ],
+          "text": [
+            "The lion is known as the king of the jungle.",
+            "Elephants are majestic creatures with incredible intelligence."
+          ]
+        }
+      ],
+      "audio_text": "This slide showcases the beauty and majesty of wildlife."
+    },
+    {
+      "slideNumber": 3,
+      "title": "Technology Advancements",
+      "content": [
+        {
+          "image": [
+            "https://picsum.photos/id/5/300",
+            "https://picsum.photos/id/6/300"
+          ],
+          "text": [
+            "Robots are becoming more integrated into human life.",
+            "Computers have revolutionized the way we work and communicate."
+          ]
+        }
+      ],
+      "audio_text": "This slide focuses on the technological advancements of the modern era."
+    },
+    {
+      "slideNumber": 4,
+      "title": "Conclusion",
+      "content": [
+        {
+          "image": [
+            "https://picsum.photos/id/7/300"
+          ],
+          "text": [
+            "The future is filled with endless possibilities.",
+            "We must continue exploring, learning, and advancing."
+          ]
+        }
+      ],
+      "audio_text": "This slide concludes the presentation with an optimistic view of the future."
+    }
+  ]
+  
